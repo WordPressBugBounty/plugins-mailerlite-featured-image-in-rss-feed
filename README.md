@@ -1,0 +1,1 @@
+# plugins-mailerlite-featured-image-in-rss-feed
