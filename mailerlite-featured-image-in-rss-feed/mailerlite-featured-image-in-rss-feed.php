@@ -3,7 +3,7 @@
  * Plugin Name:     Featured Image in RSS Feed by MailerLite
  * Plugin URI:      https://wordpress.org/plugins/mailerlite-featured-image-in-rss-feed/
  * Description:     This plugin automatically adds featured images of your posts into the RSS feed.
- * Version:         1.0.8
+ * Version:         1.0.9
  * Author:          MailerLite
  * Author URI:      https://mailerlite.com
  * Text Domain:     mailerlite-featured-image-in-rss-feed
@@ -66,7 +66,7 @@ if( ! class_exists( 'MailerLite_Featured_Image_In_RSS_Feed' ) ) {
             define( 'MAILERLITE_FIRSS_NAME', 'Featured Image in RSS Feed by MailerLite' );
 
             // Plugin version
-            define( 'MAILERLITE_FIRSS_VER', '1.0.8' );
+            define( 'MAILERLITE_FIRSS_VER', '1.0.9' );
 
             // Plugin path
             define( 'MAILERLITE_FIRSS_DIR', plugin_dir_path( __FILE__ ) );
