@@ -4,8 +4,8 @@ Donate link: https://mailerlite.com
 Tags: mailerlite, rss, feed, rss feed, featured image, thumbnail
 Requires at least: 4.0
 Requires PHP: 5.3
-Tested up to: 6.0.2
-Stable tag: 1.0.9
+Tested up to: 7.1
+Stable tag: 1.0.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,9 @@ Yes of course, but please activate the plugin individually on every single blog.
 1. Settings Page
 
 == Changelog ==
+
+= Version 1.0.10 (12th October 2026) =
+* Tested up to 7.1
 
 = Version 1.0.9 (10th October 2024) =
 * Improvements
